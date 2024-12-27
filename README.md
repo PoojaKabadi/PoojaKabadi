@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PoojaKabadi
-- 👀 I’m interested in Data science
-- 🌱 I’m currently open to learn and explore Datascience world 
+- 👀 I’m Data science professional
 - 📫 How to reach me... poojakabadi1997@gmail.com
 
 <!---
