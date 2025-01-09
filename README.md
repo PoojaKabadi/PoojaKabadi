@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoojaKabadi
 - 👀 I’m Data science professional
-- 📫 How to reach me... poojakabadi1997@gmail.com
+- 📫 How to reach me... pooja.kabadi88@gmail.com
 
 <!---
 PoojaKabadi/PoojaKabadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
