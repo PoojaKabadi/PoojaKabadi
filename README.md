@@ -14,6 +14,9 @@
 
 ---
 
+![image](https://github.com/user-attachments/assets/1b5860ea-dbb6-4450-a404-8d4d68ba55b0)
+
+
 ### 🧠 About Me
 
 I’m a data enthusiast passionate about transforming raw data into stories that drive decisions. My work bridges business needs and technical solutions — from automating healthcare KPIs to building GPT-powered analytics assistants.
