@@ -47,13 +47,13 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
   <tr>
     <td width="33%" valign="middle">
       <a href="https://github.com/PoojaKabadi/Cloud-Datawarehouse/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/689ef7bd-33dd-448c-94c5-c4a1d6b008fb" alt="ETL Pipeline Overview" width="100%" />
+        <img src="https://github.com/user-attachments/assets/4b593a26-725b-4630-a97c-2f26b7279e0e" alt="ETL Pipeline Overview" width="100%" /> 
       </a>
     </td>
 
    <td width="33%" valign="middle">
       <a href="https://github.com/PoojaKabadi/Time-series-forecastiong-project/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/fd84d41f-94a6-438d-8033-c825e1cfda91" alt="Time Series Forecasting" width="100%" />
+        <img src="https://github.com/user-attachments/assets/c986af25-4580-4dc5-80fb-844aa9fa30a8" alt="Time Series Forecasting" width="100%" />
       </a>
     </td>
     <td width="33%" valign="middle">
@@ -111,8 +111,8 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
     </td>
      <td width="33%" valign="middle">
        <a href="https://github.com/PoojaKabadi/Data-mining-Project/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/51d3b857-19c3-4f2f-8733-0d4fa2a1c05b" alt="Data Mining" width="100%" />
-      </a>
+        <img src="https://github.com/user-attachments/assets/5baeb367-cdc2-4885-8502-fb659c80f1f7" alt="Data Mining" width="100%" /> 
+       </a>
        </td>
      <td width="33%" valign="middle">
       <p align="center">
@@ -151,7 +151,7 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
       <h4 align="center">Beauty Intelligence Hub</h4>
     </td>
      <td width="33%" valign="top">
-      <h4 align="center">Data Mining & Classification: Insurance Claim Prediction & Customer Segmentation</h4>
+      <h4 align="center">Data Visualtion- Amazon Sales</h4>
     </td>
      <td width="33%" valign="top">
       <h4 align="center">Applied AI Capstone: Building a Local Agentic AI Driven Advertisement</h4>
@@ -164,8 +164,8 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
       </a>
     </td>
      <td width="33%" valign="middle">
-       <a href="https://github.com/PoojaKabadi/Data-mining-Project/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/51d3b857-19c3-4f2f-8733-0d4fa2a1c05b" alt="Data Mining" width="100%" />
+       <a href="https://github.com/PoojaKabadi/Data-Visualisation-Amazon-Sales/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/f9277f5c-b597-4fbe-bdde-93bd0bf87bf2" alt="Data Viz" width="100%" /> 
       </a>
        </td>
      <td width="33%" valign="middle">
