@@ -32,12 +32,39 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
 ### Featured Projects
 
 <table>
-  <tr>
+   <tr>
     <td width="33%" valign="top">
       <h4 align="center">ETL Pipeline for Data Warehouse</h4>
+    </td>
+
+   <td width="33%" valign="top">
+      <h4 align="center">Time Series Forecasting</h4>
+    </td>
+    <td width="33%" valign="top">
+        <h4 align="center">Machine Learning</h4>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="middle">
       <a href="https://github.com/PoojaKabadi/Cloud-Datawarehouse/blob/main/README.md">
         <img src="https://github.com/user-attachments/assets/689ef7bd-33dd-448c-94c5-c4a1d6b008fb" alt="ETL Pipeline Overview" width="100%" />
       </a>
+    </td>
+
+   <td width="33%" valign="middle">
+      <a href="https://github.com/PoojaKabadi/Time-series-forecastiong-project/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/fd84d41f-94a6-438d-8033-c825e1cfda91" alt="Time Series Forecasting" width="100%" />
+      </a>
+    </td>
+    <td width="33%" valign="middle">
+      <a href="https://github.com/PoojaKabadi/Machine-Learning-Project/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/641a8b8c-1772-446c-9af3-c65c2520cd28" alt="Machine Learning" width="100%" />
+      </a>
+    </td>
+  </tr>
+
+   <tr>
+    <td width="33%" valign="top">
       <p align="center">
         <i>
           Built a robust ETL pipeline using Apache Hop and Oracle SQL to automate dimension/fact table loading, supporting core analytical queries and enabling clean data modeling.
@@ -46,10 +73,6 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
     </td>
 
    <td width="33%" valign="top">
-      <h4 align="center">Time Series Forecasting</h4>
-      <a href="https://github.com/PoojaKabadi/Time-series-forecastiong-project/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/fd84d41f-94a6-438d-8033-c825e1cfda91" alt="Time Series Forecasting" width="100%" />
-      </a>
       <p align="center">
         <i>
           Developed time series models including ARIMA and SARIMA to forecast wine sales using 15 years of monthly data,<br>
@@ -58,10 +81,6 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
       </p>
     </td>
     <td width="33%" valign="top">
-        <h4 align="center">Machine Learning</h4>
-      <a href="https://github.com/PoojaKabadi/Machine-Learning-Project/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/641a8b8c-1772-446c-9af3-c65c2520cd28" alt="Machine Learning" width="100%" />
-      </a>
       <p align="center">
         <i>
          Built multiple classification models including Logistic Regression, LDA, KNN, and Naïve Bayes to predict voter party preference (Labour vs Conservative) using survey data on economic conditions, political knowledge, and Euroscepticism.
@@ -71,13 +90,40 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
   </tr>
 
 
+
   <!-- 👇 Add more rows below -->
-  <tr>
+ <tr>
     <td width="33%" valign="top">
       <h4 align="center">Predictive Modeling: Cubic Zirconia Price Estimation</h4>
+    </td>
+     <td width="33%" valign="top">
+      <h4 align="center">Data Mining & Classification: Insurance Claim Prediction & Customer Segmentation</h4>
+    </td>
+     <td width="33%" valign="top">
+      <h4 align="center">Applied AI Capstone: Building a Local Agentic AI Driven Advertisement</h4>
+    </td>
+  </tr>
+   <tr>
+    <td width="33%" valign="middle">
       <a href="https://github.com/PoojaKabadi/Predictive-modelling/blob/main/README.md">
         <img src="https://github.com/user-attachments/assets/336462d3-cb78-4661-971c-5410be829c62" alt="Predictive Modelling" width="100%" />
       </a>
+    </td>
+     <td width="33%" valign="middle">
+       <a href="https://github.com/PoojaKabadi/Data-mining-Project/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/51d3b857-19c3-4f2f-8733-0d4fa2a1c05b" alt="Data Mining" width="100%" />
+      </a>
+       </td>
+     <td width="33%" valign="middle">
+      <p align="center">
+        <a href="https://github.com/PoojaKabadi/Applied-AI/blob/main/README.md">
+          <img src="https://github.com/user-attachments/assets/3fa79dd8-850e-462b-bd33-807f54594308" alt="Applied AI" alt="ETL" width="300px" />
+        </a>
+      </p>
+      </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <p align="center">
         <i>
          Built a linear regression-based predictive model to estimate cubic zirconia stone prices using attributes like carat, cut, color, and clarity, improving accuracy through multicollinearity treatment and feature engineering.  </i><br>
@@ -85,15 +131,17 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
       </p>
     </td>
      <td width="33%" valign="top">
-      <h4 align="center">Data Mining & Classification: Insurance Claim Prediction & Customer Segmentation</h4>
-      <a href="https://github.com/PoojaKabadi/Data-mining-Project/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/51d3b857-19c3-4f2f-8733-0d4fa2a1c05b" alt="Data Mining" width="100%" />
-      </a>
-      <p align="center">
+       <p align="center">
         <i>
          Built a dual-stage analytics solution using clustering (K-Means, Hierarchical) for customer segmentation and ML models (CART, Random Forest, ANN) to predict insurance claim status with high accuracy and business-aligned recommendations.
   </i><br>
-        </i><br>
+      </p>
+    </td>
+     <td width="33%" valign="top">
+      <p align="center">
+        <i>
+          Built a modular, locally hosted AI agent capable of multi-step reasoning and autonomous tool use, deployed via a Streamlit web interface using LlamaIndex, Ollama, and ChromaDB.
+        </i>
       </p>
     </td>
   </tr>
