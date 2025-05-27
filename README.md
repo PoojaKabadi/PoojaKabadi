@@ -2,7 +2,9 @@
 <h3 align="center">Business Intelligence Engineer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pooja-kabadi-26b1151a6/"><img src="https://github.com/user-attachments/assets/b3632ac5-8e0d-46f9-9966-e384f9081206" alt="Linked Icon" height="28px" /></a><a href="https://github.com/poojakabadi"><img src="https://github.com/user-attachments/assets/35542d84-6d00-42e0-896e-b2f9dc021b7a" alt="Github Icon" height="28px" /></a><a href="mailto:kabadi.pooja18@gmail.com"><img src="https://github.com/user-attachments/assets/d26a9eaf-10e7-4dbf-8454-1ba3d2cb6040" alt="Email Icon" height="28px" /></a>
+  <a href="https://www.linkedin.com/in/pooja-kabadi-26b1151a6/"><img src="https://github.com/user-attachments/assets/b3632ac5-8e0d-46f9-9966-e384f9081206" alt="Linked Icon" height="28px" /></a>
+  <a href="https://github.com/poojakabadi"><img src="https://github.com/user-attachments/assets/35542d84-6d00-42e0-896e-b2f9dc021b7a" alt="Github Icon" height="28px" /></a>
+  <a href="mailto:kabadi.pooja18@gmail.com"><img src="https://github.com/user-attachments/assets/d26a9eaf-10e7-4dbf-8454-1ba3d2cb6040" alt="Email Icon" height="28px" /></a>
 </p>
 
 
