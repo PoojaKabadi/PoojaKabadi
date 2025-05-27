@@ -1,59 +1,122 @@
-<h1 align="center">Hi 👋, I'm Pooja Kabadi</h1>
-<h3 align="center">Data Scientist | Business Analyst | AI Enthusiast</h3>
+<h1 align="center">Pooja Kabadi</h1>
+<h3 align="center">Business Intelligence Engineer</h3>
 
-<img align="right" alt="Pooja's Avatar" width="240" src="https://avatars.githubusercontent.com/u/your-github-id-here" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/pooja-kabadi-26b1151a6/"><img src="https://github.com/user-attachments/assets/b3632ac5-8e0d-46f9-9966-e384f9081206" alt="Linked Icon" height="28px" /></a><a href="https://github.com/poojakabadi"><img src="https://github.com/user-attachments/assets/35542d84-6d00-42e0-896e-b2f9dc021b7a" alt="Github Icon" height="28px" /></a><a href="mailto:kabadi.pooja18@gmail.com"><img src="https://github.com/user-attachments/assets/d26a9eaf-10e7-4dbf-8454-1ba3d2cb6040" alt="Email Icon" height="28px" /></a>
+</p>
 
-🌍  **Location:** Buffalo, NY  
-🎓  **MS in Business Analytics** | University at Buffalo (STEM)  
-🏢  **Ex-Business Analyst @ Cotiviti (Healthcare + Financial Analytics)**  
-📊  **Projects:** AI-powered Dashboards | NLP for Product Review Analysis | Tax Incentives Optimizer  
-🌐  **Website:** [poojakabadi.com](https://poojakabadi.com) (coming soon!)  
-📫  **Email:** pooja.kabadi88@gmail.com  
-🔗  **LinkedIn:** [linkedin.com/in/pooja-kabadi](https://linkedin.com/in/pooja-kabadi)  
-💼  **Open to:** Full-time roles in Data Science, BI Engineering, and AI Strategy  
 
 ---
 
-![image](https://github.com/user-attachments/assets/1b5860ea-dbb6-4450-a404-8d4d68ba55b0)
+### About Me
 
-
-### 🧠 About Me
-
-I’m a data enthusiast passionate about transforming raw data into stories that drive decisions. My work bridges business needs and technical solutions — from automating healthcare KPIs to building GPT-powered analytics assistants.
-
-I believe in sustainable tech, conscious consumerism, and using AI to empower humans.
+Business Intelligence Engineer with 3+ years of experience building scalable analytics solutions and automated reporting pipelines. 
+Skilled in SQL, Python, Tableau, AWS, and Snowflake. Expert in translating complex data into executive-ready insights and 
+designing metrics frameworks and self-service dashboards to drive data-driven decisions
 
 ---
 
-### ⚒️ Tools & Tech
 
-- **Languages**: Python, SQL, R, Bash, HTML  
-- **ML & Data**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PySpark  
-- **Databases**: Oracle, Postgres, DynamoDB, MongoDB, SQLite  
-- **BI & Cloud**: Tableau, Power BI, Snowflake, Hive, Impala, AWS (S3, EC2, Redshift)  
-- **Platforms**: Git, JIRA, SAP BO, Streamlit, VSCode  
+### Tech Stack
 
----
-
-### 🚀 Featured Projects
-
-- 💬 [AI Job Hunter](https://github.com/poojakabadi/ai-job-hunter) – A GPT-powered resume evaluator and career guidance bot  
-- 🧴 [Cosmetic Ingredient Risk Checker](https://github.com/poojakabadi/ingredient-risk-streamlit) – NLP-powered app to assess product safety and sustainability  
-- 📊 [Power BI GPT Chatbot](https://github.com/poojakabadi/powerbi-gpt-chat-visual) – Custom Power BI visual that talks to your data  
-- 💸 [Tax Incentive Finder](https://github.com/poojakabadi/tax-credit-optimizer) – Aggregates real estate tax credits by state and type  
+| Area | Tools & Technologies |
+|------|----------------------|
+| **Languages** | <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> </p> |
+| **Data & Cloud Platforms** | <p align="left"> <img src="https://img.shields.io/badge/Snowflake-56B9DA?style=for-the-badge&logo=snowflake&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" /> <img src="https://img.shields.io/badge/Cloudera-EE8D00?style=for-the-badge&logo=cloudera&logoColor=white" /> <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" /> </p> |
+| **Visualization & Tools** | <p align="left">  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" /> <img src="https://img.shields.io/badge/QuickSight-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/SAP_BO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> <img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" /> <img src="https://img.shields.io/badge/Impala-FF9900?style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></p> |
+| **ML & Analytics** | <p align="left">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />  <img src="https://img.shields.io/badge/A/B%20Testing-7B1FA2?style=for-the-badge" />  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />  <img src="https://img.shields.io/badge/Matplotlib-0C63B4?style=for-the-badge" />  <img src="https://img.shields.io/badge/Seaborn-2E7DB4?style=for-the-badge" /></p> |
+| **ETL / Modeling** | <p align="left"> <img src="https://img.shields.io/badge/Apache_Hop-231F20?style=for-the-badge&logo=apache&logoColor=white" /> <img src="https://img.shields.io/badge/Star_Schema-4B8BBE?style=for-the-badge" />  <img src="https://img.shields.io/badge/Snowflake_Modeling-56B9DA?style=for-the-badge&logo=snowflake&logoColor=white" /></p> |
 
 ---
 
-### 🎯 Current Goals
+### Featured Projects
 
-- 🌟 Build a green consumerism product review platform  
-- 🤝 Collaborate on AI tools for public good  
-- 📚 Stay sharp on MLOps, GenAI, and data storytelling  
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">ETL Pipeline for Data Warehouse</h4>
+      <a href="https://github.com/PoojaKabadi/Cloud-Datawarehouse/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/689ef7bd-33dd-448c-94c5-c4a1d6b008fb" alt="ETL Pipeline Overview" width="100%" />
+      </a>
+      <p align="center">
+        <i>
+          Built a robust ETL pipeline using Apache Hop and Oracle SQL to automate dimension/fact table loading, supporting core analytical queries and enabling clean data modeling.
+        </i><br>
+      </p>
+    </td>
+
+   <td width="33%" valign="top">
+      <h4 align="center">Time Series Forecasting</h4>
+      <a href="https://github.com/PoojaKabadi/Time-series-forecastiong-project/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/fd84d41f-94a6-438d-8033-c825e1cfda91" alt="Time Series Forecasting" width="100%" />
+      </a>
+      <p align="center">
+        <i>
+          Developed time series models including ARIMA and SARIMA to forecast wine sales using 15 years of monthly data,<br>
+          optimizing predictions through seasonal decomposition and RMSE evaluation.
+        </i><br>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+        <h4 align="center">Machine Learning</h4>
+      <a href="https://github.com/PoojaKabadi/Machine-Learning-Project/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/641a8b8c-1772-446c-9af3-c65c2520cd28" alt="Machine Learning" width="100%" />
+      </a>
+      <p align="center">
+        <i>
+         Built multiple classification models including Logistic Regression, LDA, KNN, and Naïve Bayes to predict voter party preference (Labour vs Conservative) using survey data on economic conditions, political knowledge, and Euroscepticism.
+        </i><br>
+      </p>
+    </td>
+  </tr>
+
+
+  <!-- 👇 Add more rows below -->
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">Predictive Modeling: Cubic Zirconia Price Estimation</h4>
+      <a href="https://github.com/PoojaKabadi/Predictive-modelling/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/336462d3-cb78-4661-971c-5410be829c62" alt="Predictive Modelling" width="100%" />
+      </a>
+      <p align="center">
+        <i>
+         Built a linear regression-based predictive model to estimate cubic zirconia stone prices using attributes like carat, cut, color, and clarity, improving accuracy through multicollinearity treatment and feature engineering.  </i><br>
+        </i><br>
+      </p>
+    </td>
+     <td width="33%" valign="top">
+      <h4 align="center">Data Mining & Classification: Insurance Claim Prediction & Customer Segmentation</h4>
+      <a href="https://github.com/PoojaKabadi/Data-mining-Project/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/51d3b857-19c3-4f2f-8733-0d4fa2a1c05b" alt="Data Mining" width="100%" />
+      </a>
+      <p align="center">
+        <i>
+         Built a dual-stage analytics solution using clustering (K-Means, Hierarchical) for customer segmentation and ML models (CART, Random Forest, ANN) to predict insurance claim status with high accuracy and business-aligned recommendations.
+  </i><br>
+        </i><br>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
-### ✨ Let's Connect
+### Career Highlights
 
-I love exchanging ideas, contributing to meaningful projects, and learning new things. Feel free to reach out for collaborations, questions, or just a chat!
+- Saved $2.5M+ by deploying scalable ETL solutions at Cotiviti  
+- Led migration from static Excel reports to interactive dashboards across 3 lines of business  
+- Taught 60+ students SQL and visualization at SUNY Buffalo  
+- Reduced ad-hoc data requests by 50% by standardizing KPI reporting for executives  
 
 ---
+
+### What I'm Working On
+
+- Packaging a GPT-powered BI assistant for embedded dashboards  
+- Prototyping a clean-consumer product review analyzer with NLP  
+- Upskilling on advanced Power BI visuals & custom DAX measures  
+
+---
+
+_Thanks for stopping by!_  
