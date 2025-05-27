@@ -145,6 +145,60 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
       </p>
     </td>
   </tr>
+
+   <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">Beauty Intelligence Hub</h4>
+    </td>
+     <td width="33%" valign="top">
+      <h4 align="center">Data Mining & Classification: Insurance Claim Prediction & Customer Segmentation</h4>
+    </td>
+     <td width="33%" valign="top">
+      <h4 align="center">Applied AI Capstone: Building a Local Agentic AI Driven Advertisement</h4>
+    </td>
+  </tr>
+   <tr>
+    <td width="33%" valign="middle">
+      <a href="https://github.com/PoojaKabadi/Beauty-Intelligence-Hub/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/54c8a9f3-1bd4-4325-941b-b96e89557898" alt="Beaauty Intelligence Hub" width="100%" />
+      </a>
+    </td>
+     <td width="33%" valign="middle">
+       <a href="https://github.com/PoojaKabadi/Data-mining-Project/blob/main/README.md">
+        <img src="https://github.com/user-attachments/assets/51d3b857-19c3-4f2f-8733-0d4fa2a1c05b" alt="Data Mining" width="100%" />
+      </a>
+       </td>
+     <td width="33%" valign="middle">
+      <p align="center">
+        <a href="https://github.com/PoojaKabadi/Applied-AI/blob/main/README.md">
+          <img src="https://github.com/user-attachments/assets/3fa79dd8-850e-462b-bd33-807f54594308" alt="Applied AI" alt="ETL" width="300px" />
+        </a>
+      </p>
+      </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <p align="center">
+        <i>
+        Built an interactive NLP dashboard to analyze 1M+ Sephora product reviews, uncover ingredient risks, and empower consumers with transparent insights on skincare safety, sentiment, and trends.  </i><br>
+        </i><br>
+      </p>
+    </td>
+     <td width="33%" valign="top">
+       <p align="center">
+        <i>
+         Built a dual-stage analytics solution using clustering (K-Means, Hierarchical) for customer segmentation and ML models (CART, Random Forest, ANN) to predict insurance claim status with high accuracy and business-aligned recommendations.
+  </i><br>
+      </p>
+    </td>
+     <td width="33%" valign="top">
+      <p align="center">
+        <i>
+          Built a modular, locally hosted AI agent capable of multi-step reasoning and autonomous tool use, deployed via a Streamlit web interface using LlamaIndex, Ollama, and ChromaDB.
+        </i>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
