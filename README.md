@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Pooja Kabadi</h1>
 <h3 align="center">Business Intelligence Engineer</h3>
 
@@ -228,5 +226,23 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
 - Upskilling on advanced Power BI visuals & custom DAX measures  
 
 ---
+<p align="center">
+  <a href="https://www.credly.com/badges/69256007-08bf-4842-b582-5478ff7205fd/public_url">
+  <img src="https://github.com/user-attachments/assets/58dbf745-44a3-4566-b903-24d0d2e22ccb" width="100px/"> 
+</a> <a href="https://achieve.snowflake.com/25c6ab9a-c261-4055-ab97-290a6e65be93#acc.5O9jwLJg">
+  <img src="https://github.com/user-attachments/assets/8024aeae-3daf-4344-8943-2a3b276ad99a" width="150px"/> </a>  <a href="https://credentials.databricks.com/3b133f04-117e-42f3-9a8b-3c15f285884a#acc.RNAVOXQZ">
+  <img src="https://github.com/user-attachments/assets/34385f8d-b253-4acc-bf25-86c8f6614dc1" width="150px" /> 
+     </a>     <a href="https://credentials.databricks.com/dd6aeded-f97e-4c5c-bb6d-a22cacbd042b#acc.yS9ZCmrD">
+  <img src="https://github.com/user-attachments/assets/2968eaff-262e-4210-bbd7-d6f99a9871c3" width="150px"/>  </a>   <a href="https://credentials.databricks.com/5f43a4d8-257f-47d1-a700-ecf7e8d8701c#acc.lsRiS3X1">
+  <img src="https://github.com/user-attachments/assets/8c3962ad-46e5-4d67-97ac-0e0857006757" width="100px"/>  </a>
 
-_Thanks for stopping by!_  
+</p>
+
+
+
+
+
+
+
+<p align="center"> _Thanks for stopping by!_ </p>
+
