@@ -1,4 +1,4 @@
-<img width="960" alt="Banner 1" src="https://github.com/user-attachments/assets/94a87c93-e2dc-40d1-8dba-5977a4a8ad39" />
+
 
 <h1 align="center">Pooja Kabadi</h1>
 <h3 align="center">Business Intelligence Engineer</h3>
