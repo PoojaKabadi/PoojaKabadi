@@ -75,7 +75,7 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
      <td width="33%" valign="top">
        <p align="center">
         <i>
-         Built a dual-stage analytics solution using clustering (K-Means, Hierarchical) for customer segmentation and ML models (CART, Random Forest, ANN) to predict insurance claim status with high accuracy and business-aligned recommendations.
+         Built an executive-style Power BI dashboard to uncover key revenue drivers, profit margins, and category performance across 76 countries from 2010 to 2017.
   </i><br>
       </p>
     </td>
