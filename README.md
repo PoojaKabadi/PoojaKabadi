@@ -48,7 +48,7 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
    <tr>
     <td width="33%" valign="middle">
       <a href="https://github.com/PoojaKabadi/Beauty-Intelligence-Hub/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/6f2ea620-a344-445b-aa79-2183856cc822" alt="Beaauty Intelligence Hub" width="100%" />
+        <img src="https://github.com/user-attachments/assets/09e99baf-c5c3-43e7-89f3-d6cf303138ba" alt="Beaauty Intelligence Hub" width="100%" />
       </a>
     </td>
      <td width="33%" valign="middle">
