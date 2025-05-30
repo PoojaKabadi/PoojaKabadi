@@ -46,10 +46,10 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
     </td>
   </tr>
    <tr>
-    <td width="33%" valign="middle">
+    <td width="33%" align=center valign="middle">
       <a href="https://github.com/PoojaKabadi/Beauty-Intelligence-Hub/blob/main/README.md">
-        <img src="https://github.com/user-attachments/assets/09e99baf-c5c3-43e7-89f3-d6cf303138ba" alt="Beaauty Intelligence Hub" width="100%" />
-      </a>
+        <img src="https://github.com/user-attachments/assets/bce847e9-9cc5-4764-a54a-5d228bf81e95" alt="Beaauty Intelligence Hub"  height="380" />
+      </a> 
     </td>
      <td width="33%" valign="middle">
        <a href="https://github.com/PoojaKabadi/Data-Visualisation-Amazon-Sales/blob/main/README.md">
@@ -59,7 +59,7 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
      <td width="33%" valign="middle">
       <p align="center">
         <a href="https://github.com/PoojaKabadi/Seasonal-PowerBI-Dashboard/blob/main/README.md">
-          <img src="https://github.com/user-attachments/assets/8121dc62-ab28-4287-826c-236028ddd1dc" alt="PowerBI Dashboard" width="300px" />
+          <img src="https://github.com/user-attachments/assets/8121dc62-ab28-4287-826c-236028ddd1dc" alt="PowerBI Dashboard" height="380" />
         </a>
       </p>
       </td>
