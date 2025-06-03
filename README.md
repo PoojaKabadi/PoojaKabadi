@@ -227,6 +227,9 @@ designing metrics frameworks and self-service dashboards to drive data-driven de
 
 ---
 <p align="center">
+   <a href="https://www.credly.com/badges/11b87d47-c3b5-4621-bc0d-a92b8eabce0d/public_url">
+  <img src="https://github.com/user-attachments/assets/b0c8ee24-10ad-4ae4-b374-ddd9ea63e6a7" width="100px/"> 
+</a>
   <a href="https://www.credly.com/badges/69256007-08bf-4842-b582-5478ff7205fd/public_url">
   <img src="https://github.com/user-attachments/assets/58dbf745-44a3-4566-b903-24d0d2e22ccb" width="100px/"> 
 </a> <a href="https://achieve.snowflake.com/25c6ab9a-c261-4055-ab97-290a6e65be93#acc.5O9jwLJg">
