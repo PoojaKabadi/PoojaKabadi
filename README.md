@@ -12,7 +12,7 @@
 
 ### About Me
 
-Business Intelligence Engineer with 4+ years of experience building scalable analytics solutions and automated reporting pipelines. 
+Business Intelligence Engineer with 5+ years of experience building scalable analytics solutions and automated reporting pipelines. 
 Skilled in SQL, Python, Tableau, AWS, and Snowflake. Expert in translating complex data into executive-ready insights and 
 designing metrics frameworks and self-service dashboards to drive data-driven decisions
 
