@@ -1,5 +1,5 @@
 <h1 align="center">Pooja Kabadi</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Data Scientist-AI/ML</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pooja-kabadi-26b1151a6/"><img src="https://github.com/user-attachments/assets/b3632ac5-8e0d-46f9-9966-e384f9081206" alt="Linked Icon" height="28px" /></a>
